@@ -1,6 +1,6 @@
 # Belly-Button-Biodiversity
 
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
@@ -27,10 +27,15 @@ The dataset reveals that a small handful of microbial species (also called opera
 * Use otu_ids for the marker colors.
 
 * Use otu_labels for the text values.
+![belly_button_samples](https://user-images.githubusercontent.com/100645924/173670632-dd893fec-5fc5-4d25-b15c-544097af0aab.png)
+
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
+
+<img width="1183" alt="bellybutton_dashboard" src="https://user-images.githubusercontent.com/100645924/173670719-3b3d8618-8791-4c97-be19-518e062a2f91.png">
+
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
 
